@@ -1,14 +1,6 @@
 import Link from "next/link";
 
-import {
-  RiGithubLine,
-  RiLinkedinLine,
-  RiMailAddLine,
-  RiMailCheckLine,
-  RiMailCloseLine,
-  RiMailDownloadLine,
-  RiMailLine,
-} from "react-icons/ri";
+import { RiGithubLine, RiLinkedinLine, RiMailLine } from "react-icons/ri";
 
 const Socials = () => {
   return (
